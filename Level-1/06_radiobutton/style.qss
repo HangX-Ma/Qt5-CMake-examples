@@ -1,0 +1,17 @@
+QRadioButton{
+    spacing: 2px;
+    color: white;
+}
+
+QRadioButton::indicator {
+    width: 30px;
+    height: 30px;
+}
+
+QRadioButton::indicator:unchecked {
+    image: url(:/share/radioButton_unchecked.png);
+}
+
+QRadioButton::indicator:checked {
+    image: url(:/share/radioButton_checked.png);
+}

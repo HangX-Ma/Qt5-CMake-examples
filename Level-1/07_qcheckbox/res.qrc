@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>style.qss</file>
+        <file>icons/checked.png</file>
+        <file>icons/indeterminate.png</file>
+        <file>icons/unchecked.png</file>
+    </qresource>
+</RCC>
