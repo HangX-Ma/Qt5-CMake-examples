@@ -1,0 +1,2 @@
+/home/mcontour/Qt5_Practice/user/build/CMakeFiles/rebuild_cache.dir
+/home/mcontour/Qt5_Practice/user/build/CMakeFiles/edit_cache.dir
